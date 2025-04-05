@@ -48,8 +48,8 @@ PhantomDonate - это модуль для Hikka, который позволя�
 ## Метаданные
 
 •   Разработчик: @cryofhell
-•   Иконка:  [https://i.postimg.cc/Hx3Zm8rB/logo.png](https://i.postimg.cc/Hx3Zm8rB/logo.png)
-•   Баннер: [https://te.legra.ph/file/d3f0f14e90ce2f82d8f1f.jpg](https://te.legra.ph/file/d3f0f14e90ce2f82d8f1f.jpg)
+•   Иконка:  [https://x0.at/jhJR.jpg](https://x0.at/jhJR.jpg)
+•   Баннер: [https://x0.at/gczc.jpg](https://x0.at/gczc.jpg)
 
 ## Версия
 
@@ -81,4 +81,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```# PhantomDonate
+```
